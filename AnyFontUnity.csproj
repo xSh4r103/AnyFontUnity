@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>main.ico</ApplicationIcon>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="GlobalTMPFont.zip" />
+    <None Remove="GlobalTMPFontFix.zip" />
+    <None Remove="GlobalTMPFontFixMONO.zip" />
+    <None Remove="melon_v0.6.6.zip" />
+    <None Remove="melon_v0.7.2.zip" />
+    <None Remove="melon_v0.7.3.zip" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="main.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="GlobalTMPFont.zip" />
+    <EmbeddedResource Include="GlobalTMPFontFixIL2CPP.zip" />
+    <EmbeddedResource Include="GlobalTMPFontFixMONO.zip" />
+    <EmbeddedResource Include="melon_v0.6.6.zip" />
+    <EmbeddedResource Include="melon_v0.7.2.zip" />
+    <EmbeddedResource Include="melon_v0.7.3.zip" />
+  </ItemGroup>
+
+</Project>

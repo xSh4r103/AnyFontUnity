@@ -26,7 +26,7 @@ By utilizing the power of **MelonLoader**, AnyFontUnity supports both **IL2CPP**
 ---
 
 ### 🙏 Credits & Acknowledgments
-This project stands on the shoulders of giants. A sincere thank you to the creators of the core hooking framework:
+This project stands on the shoulders of giants. A sincere thank you to the creators of the core hooking framework
    **[MelonLoader](https://github.com/LavaGang/MelonLoader):** Thank you for providing an incredible and universal modding architecture for Unity games. AnyFontUnity acts as an automated installer based on MelonLoader to simplify the font-patching process for end-users.
 
 ### 📜 License

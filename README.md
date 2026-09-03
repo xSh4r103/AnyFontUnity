@@ -1,4 +1,4 @@
-# 👾 AnyFontUnity v1.0.0
+# AnyFontUnity v1.0.0
 
 **AnyFontUnity** is an automated patching tool designed to help modders, translators, and gamers easily inject custom TrueType Fonts (`.ttf`) into Unity games. It eliminates the need to unpack or modify the original game assets.
 
@@ -6,7 +6,7 @@ By utilizing the power of **MelonLoader**, AnyFontUnity supports both **IL2CPP**
 
 ---
 
-### 🌟 Key Features
+### Key Features
 1-Click Automated Hooking: No more manual folder copying. The tool handles MelonLoader extraction and installation completely automatically.
 Dual Architecture Support: Fully supports both IL2CPP and Mono engine builds.
 Custom TTF Injection: Use the pre-packaged universal system font or inject your own `.ttf` file into the game.
@@ -14,7 +14,7 @@ Multi-language UI: Built-in UI localization supporting 7 languages (EN, VI, ZH, 
 
 ---
 
-### 🚀 How to Use
+### How to Use
 1. Download the latest `.exe` file from the **[Releases](../../releases)** page.
 2. Run `AnyFontUnity.exe`.
 3. Click the `...` button and select your target Unity game's `.exe` file.
@@ -25,9 +25,9 @@ Multi-language UI: Built-in UI localization supporting 7 languages (EN, VI, ZH, 
 
 ---
 
-### 🙏 Credits & Acknowledgments
+### Credits & Acknowledgments
 This project stands on the shoulders of giants. A sincere thank you to the creators of the core hooking framework
 [MelonLoader](https://github.com/LavaGang/MelonLoader): Thank you for providing an incredible and universal modding architecture for Unity games. AnyFontUnity acts as an automated installer based on MelonLoader to simplify the font-patching process for end-users.
 
-### 📜 License
+### License
 This project is licensed under the [MIT License](LICENSE).

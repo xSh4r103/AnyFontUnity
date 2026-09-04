@@ -1,5 +1,7 @@
 # AnyFontUnity v1.0.0
 
+![AnyFontUnity Demo](<img width="877" height="446" alt="Screenshot 2026-09-04 145806" src="https://github.com/user-attachments/assets/fbc8971d-f835-4092-8507-a134d1110e87" />
+
 **AnyFontUnity** is an automated patching tool designed to help modders, translators, and gamers easily inject custom TrueType Fonts (`.ttf`) into Unity games. It eliminates the need to unpack or modify the original game assets.
 
 By utilizing the power of **MelonLoader**, AnyFontUnity supports both **IL2CPP** and **Mono** architectures, making it a versatile solution for fan translations (Asian languages, Cyrillic, etc.) that frequently encounter missing characters or "square box" issues in Unity.

@@ -9,10 +9,10 @@ By utilizing the power of **MelonLoader**, AnyFontUnity supports both **IL2CPP**
 ---
 
 ### Key Features
-1-Click Automated Hooking: No more manual folder copying. The tool handles MelonLoader extraction and installation completely automatically.
-Dual Architecture Support: Fully supports both IL2CPP and Mono engine builds.
-Custom TTF Injection: Use the pre-packaged universal system font or inject your own `.ttf` file into the game.
-Multi-language UI: Built-in UI localization supporting 7 languages (EN, VI, ZH, TW, RU, KO, JA).
+* **1-Click Automated Hooking:** No more manual folder copying. The tool handles MelonLoader extraction and installation completely automatically.
+* **Dual Architecture Support:** Fully supports both IL2CPP and Mono engine builds.
+* **Custom TTF Injection:** Use the pre-packaged universal system font or inject your own `.ttf` file into the game.
+* **Multi-language UI:** Built-in UI localization supporting 7 languages (EN, VI, ZH, TW, RU, KO, JA).
 
 ---
 
